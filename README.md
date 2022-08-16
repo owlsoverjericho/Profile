@@ -7,4 +7,4 @@
 <code>🧑‍💻 Languages: JavaScript, Python, C/C++</code>
 <code>📦 Tech stack: node.js</code>
 <code>💬 telegram: [@dreamlnterpreter](https://telegram.me/dreamlnterpreter)</code>
-<code>📫 [owlsoverjericho@protonmail.com](mailto: owlsoverjericho@protonmail.com)</code>
+<code>📫 [owlsoverjericho@protonmail.com](mailto:owlsoverjericho@protonmail.com)</code>
