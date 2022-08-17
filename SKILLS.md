@@ -7,7 +7,7 @@
 | Syntax               | Statements            | Functions             | Data structures     | Process & style      |
 |----------------------|-----------------------|-----------------------|---------------------|----------------------|
 | 🟩 value             | 🟩 if                 | 🟩 recursion          | 🟩 array            | 🟦 refactoring       |
-| 🟩 identifier        | 🟩 loops              | 🟩 function           | 🟦 instance         | 🟦 code review       |
+| 🟩 identifier        | 🟩 loops              | 🟩 function           | 🟩 instance         | 🟦 code review       |
 | 🟩 variable          | 🟩 assignment         | 🟩 return             | 🟩 object           | 🟦 antipatterns      |
 | 🟩 constant          | 🟩 prototype          | 🟩 signature          | 🟦 collection       | 🟦 paradigm          |
 | 🟩 scalar            | 🟩 class              | 🟩 argument           | 🟦 hash table       | 🟩 algorithm         |
@@ -28,8 +28,8 @@
 | 🟩 call, bind, apply |                       | 🟦 factory            | 🟨 timers           | 🟦 unittest          |
 | 🟩 Array             |                       | 🟦 pool               | 🟨 EventEmitter     | 🟦 git               |
 | 🟩 instanceof        |                       | 🟦 wrapper            | 🟨 RegExp           | 🟦 github            |
-| 🟩 ...spread         |                       | 🟩 default parameters | 🟨 global           | 🟩 node.js           |
-| 🟩 ...rest           |                       |                       | 🟨 undefined        | 🟩 npm               |
+| 🟩 ...spread         |                       | 🟩 default parameters | 🟩 global           | 🟩 node.js           |
+| 🟩 ...rest           |                       |                       | 🟩 undefined        | 🟩 npm               |
 | 🟩 typeof            |                       |                       | 🟩 null             |                      |
 
 ## Multi-paradigm programming
