@@ -30,8 +30,8 @@
 | 🟩 instanceof        |                       | 🟦 wrapper            | 🟨 RegExp           | 🟦 github            |
 | 🟩 ...spread         |                       | 🟩 default parameters | 🟩 global           | 🟩 node.js           |
 | 🟩 ...rest           |                       |                       | 🟩 undefined        | 🟩 npm               |
-| 🟩 typeof            |                       |                       | 🟩 null             |                      |
-
+| 🟩 typeof            |                       |                       | 🟩 null             | 🟩 Polyfills         |
+|                      |                       |                       |                    | 🟩 Transpilers       |
 ## Multi-paradigm programming
 
 | Theory                         | OOP basics            | Abstractions         | Patterns                 |
